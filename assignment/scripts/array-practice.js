@@ -105,4 +105,4 @@ console.log(favoriteFoods.join(' and '));
 //     ['pizza', 'pasta', 'fish', 'cat', 'bird', 'dog']
 let Megaray = [...animalArray , ...favoriteFoods];
 console.log(Megaray);
-//Wondering why there is not a commma between Pecan Pie and fish...
+
